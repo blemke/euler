@@ -1,0 +1,6 @@
+C:\Users\Lenny\Dropbox\github\euler\001\ProjectEuler001\ProjectEuler001\bin\Debug\ProjectEuler001.exe.config
+C:\Users\Lenny\Dropbox\github\euler\001\ProjectEuler001\ProjectEuler001\bin\Debug\ProjectEuler001.exe
+C:\Users\Lenny\Dropbox\github\euler\001\ProjectEuler001\ProjectEuler001\bin\Debug\ProjectEuler001.pdb
+C:\Users\Lenny\Dropbox\github\euler\001\ProjectEuler001\ProjectEuler001\obj\Debug\ProjectEuler001.csprojResolveAssemblyReference.cache
+C:\Users\Lenny\Dropbox\github\euler\001\ProjectEuler001\ProjectEuler001\obj\Debug\ProjectEuler001.exe
+C:\Users\Lenny\Dropbox\github\euler\001\ProjectEuler001\ProjectEuler001\obj\Debug\ProjectEuler001.pdb
